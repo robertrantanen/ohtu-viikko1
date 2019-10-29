@@ -36,3 +36,5 @@ jar {
     }
 }
 
+apply plugin: "jacoco" 
+
